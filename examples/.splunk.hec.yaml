@@ -1,0 +1,6 @@
+---
+collector:
+  proto: 'http'
+  host: 'localhost'
+  port: 8088
+  token: '61876693-4758-4f45-bca7-c910ccc746eb'
